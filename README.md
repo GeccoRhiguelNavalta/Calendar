@@ -1,6 +1,6 @@
 # Calendar App
 
-![alt text](https://github.com/GeccoRhiguelNavalta/Calendar/blob/main/calendar/calendar.png)
+![alt text](https://github.com/GeccoRhiguelNavalta/Calendar/blob/main/calendar.png "screenshot")
 
 ## This is a calendar app created using the MERN stack - MongoDB, Express, React, and Node.js, fns package to deal with date formatting.
 
