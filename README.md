@@ -7,6 +7,4 @@
 
 Add events on a monthly calendar view
 upcoming event at top of list
-# Calendar
-# Calendar
-# Calendar
+
